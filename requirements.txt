@@ -1,0 +1,6 @@
+pyzbar
+qrcode
+torch
+transformers==4.30.0 
+git+https://github.com/huggingface/diffusers
+gradio
