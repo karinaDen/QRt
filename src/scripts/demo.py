@@ -1,5 +1,5 @@
 import gradio
-from ...models.model import StableDiffusionWithControlNet
+from models.model import StableDiffusionWithControlNet
 
 
 model = StableDiffusionWithControlNet('cuda')
