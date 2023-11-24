@@ -1,11 +1,16 @@
-# QRt: QR Code Art Generator  
+# QRt: QR Code Art Generator
 
 ## Project description  
 
-In today's digital age, QR-codes have become an essential part of our daily lives, serving as gateways to a world of information. The concept of transforming these black-and-white squares into beautiful masterpieces is gaining popularity. However, a challenge persists that needs to be addressed; current QR code generators often do not deliver stable and reliable results.  
+Research in the field of QR code art generation has gained notable attention in recent years. The fusion of technology and creativity opens up new possibilities beyond mere aesthetics. However, making such QR codes both pleasing for humans and readable by modern devices is a complex task requiring both a high-quality generative model and a QR parser for evaluation. In this paper, we discover methods to make such a pipeline possible and generate both stable and artful QR codes with little-to-no ambiguity.
 
-To tackle this challenge, we used advanced generative models, which are Stable Diffusion and Control Nets. By using these models, QRt aims to deliver a stable and user-friendly platform that seamlessly merges beauty with functionality, unlocking the full potential of QR codes as both art and information.   
+## Links to workflow
 
-## Getting Started   
+If you are interested in this project, you can read our [research](https://drive.google.com/file/d/1V8YaBRsnn7p3-Bi_8XY1JSrbDHUVQeej/view?usp=sharing). In addition, please check our [GitHub repository](https://github.com/karinaDen/QRt/tree/main), [Inference Notebook](https://colab.research.google.com/drive/1FFHpqPHdL8uSde3Jwli3xBoFFwH6bdP4?usp=sharing) and [Evaluation Notebook](https://colab.research.google.com/drive/1Wasr02EYaDnYfW1vojyElDfWcH4_yc_j?usp=sharing) for more details. 
 
-You can explore [this Colab](https://colab.research.google.com/drive/1FFHpqPHdL8uSde3Jwli3xBoFFwH6bdP4?usp=sharing) to access the guidance and get started.
+## Credits
+
+Project developed and done by:
+* Polina Zelenskaya, Innopolis University
+* Karina Denisova, Innopolis University
+* Leila Khaertdinova, Innopolis University
