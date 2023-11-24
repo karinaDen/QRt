@@ -6,6 +6,8 @@ Research in the field of QR code art generation has gained notable attention in 
 
 As a result of the project, we provide a pipeline to generate visually appealing QR codes with the popular diffusion model Stable Diffusion followed by ControlNets.
 
+![pipeline](https://github.com/karinaDen/QRt/assets/88292173/f8c6ccdc-5bb8-4145-9c92-fb897559fb88)
+
 ## Links to workflow
 
 If you are interested in this project, you can read our [research](https://drive.google.com/file/d/1V8YaBRsnn7p3-Bi_8XY1JSrbDHUVQeej/view?usp=sharing). In addition, please check the following notebooks: [Inference Notebook](https://colab.research.google.com/drive/1FFHpqPHdL8uSde3Jwli3xBoFFwH6bdP4?usp=sharing) and [Evaluation Notebook](https://colab.research.google.com/drive/1Wasr02EYaDnYfW1vojyElDfWcH4_yc_j?usp=sharing). 
